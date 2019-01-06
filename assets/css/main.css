@@ -1433,6 +1433,10 @@ input, select, textarea {
 
 /* Table */
 
+#gitLink{
+	float: right;
+}
+
 	table {
 		width: 100%;
 	}
