@@ -1,0 +1,26 @@
+{
+  "name": "MariaManiccia.github.io",
+  "version": "1.0.0",
+  "description": "Hello. My name is Maria Maniccia and this is my portfolio.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^5.15.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MariaManiccia/MariaManiccia.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MariaManiccia/MariaManiccia.github.io/issues"
+  },
+  "homepage": "https://github.com/MariaManiccia/MariaManiccia.github.io#readme"
+}
