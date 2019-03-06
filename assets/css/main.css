@@ -66,6 +66,11 @@ input, select, textarea {
 	appearance: none;
 }
 
+#card-info{
+	font-size: medium;
+	color:black;
+}
+
 /* Row */
 
 	.row {
