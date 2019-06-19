@@ -1305,8 +1305,8 @@ input, select, textarea {
 	}
 
 	body {
-		/* background-image: url("images/tealbg.jpg"); */
-		background-color: #21afa1;
+		background-image: url("images/tealbg.jpg");
+		/* background-color: #21afa1; */
 		background-repeat: no-repeat;
 		background-size: cover;
 		background-attachment: fixed;
